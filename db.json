@@ -6,7 +6,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image":"https://i.ibb.co/yqGtTTB/item1.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image":"https://i.ibb.co/PTFXsgF/item2.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image": "https://i.ibb.co/BK09LDh/item3.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image": "https://i.ibb.co/V25MJtf/item4.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image": "https://i.ibb.co/0VZ6mDz/item5.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image": "https://i.ibb.co/1Xm5qc5/item6.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image": "https://i.ibb.co/DbwX0X4/item7.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
         {
             "id": 3,
@@ -62,7 +62,7 @@
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image": "https://i.ibb.co/GQFfjz6/item8.jpg",
             "discount": "false",
-            "price": 495,000
+            "price": 495.000
         },
     ]
 }
